@@ -47,18 +47,24 @@ my progress might seems slow, it was mainly due to personal reasons and quite a 
 
 # Learning Resources
 
-- yet to be done.
+## Good youtube channel
+- [3 Blue 1 Brown](https://www.youtube.com/@3blue1brown)
+- [The Independence Code](https://www.youtube.com/@independentcode)
+- [Sebestian Lague](https://www.youtube.com/@SebastianLague)
+## Currated Videos that i found useful
+- [Intro 2 NN](https://www.youtube.com/playlist?list=PLNbjvOqGTGX_HiWzH3XXIIA0pFxAifVs5)
+## Courses
+
+- [Deep Learning For Computer Vision: NPTEL](https://onlinecourses.nptel.ac.in/noc24_cs89/preview)
+
+
+PS: i realize that saying i have gained good intiuition and not normalizing data for svm is contradicting, i will do that soon enough
 
 # References
 
 [^1]: [A-proposed-Automated-System-to-Classify-Diabetic-Foot-from-Thermography](https://www.researchgate.net/profile/Marwa-Eid-5/publication/342164315_A_proposed_Automated_System_to_Classify_Diabetic_Foot_from_Thermography/links/5ee6544192851ce9e7e3a0d6/A-proposed-Automated-System-to-Classify-Diabetic-Foot-from-Thermography.pdf)
 [^2]: [Survey Paper Read]()
 [^3]: [Plantar Thermogram Dataset](https://ieee-dataport.org/open-access/plantar-thermogram-database-study-diabetic-foot-complications)
----
-
-PS: i realize that saying i have gained good intiuition and not normalizing data for svm is contradicting, i will do that soon enough
-
-
 
 
 
